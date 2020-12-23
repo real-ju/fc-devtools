@@ -1,0 +1,14 @@
+{
+  "name": "fc",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
